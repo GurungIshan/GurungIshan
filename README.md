@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Skills
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap
-- **Backend:** PHP, ASP.NET Web API, C#
+- **Backend:** PHP, ASP.NET
 - **Mobile:** Dart, Flutter
 - **Database:** MySQL
 
