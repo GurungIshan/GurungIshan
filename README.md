@@ -1,6 +1,6 @@
 # Hi, I'm Ishan Gurung 👋
 
-🎓 BCA Student | Full-Stack Developer | Machine Learning Enthusiast  
+🎓 BCA Student | Mobile Application Developer 
 
 🌐 [Visit My Website](https://ishangurung.vercel.app/)  
 
